@@ -12,4 +12,4 @@ elif Computer_Number>User_Input:
     print("Your guess number is too low.")
 else:
     print("Computer Number is:-", Computer_Number)
-    print("Your guess number is qual to computer number.")
+    print("Your guess number is equal to computer number.")
